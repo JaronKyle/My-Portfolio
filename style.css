@@ -1,0 +1,26 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+body {
+	background: rgba(111, 0, 255, 0.808);
+  font-family: 'Festive', cursive;
+  
+}
+
+.main {
+  background-color: crimson;
+  margin: 20px;
+  
+}
+
+.hobbies {
+
+}
+
+.main-image {
+	width: 30%;
+  margin: 30px;
+
+}
